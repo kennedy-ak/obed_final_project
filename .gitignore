@@ -81,7 +81,7 @@ venv.bak/
 
 # Data and model artifacts
 
-*.joblib
+
 *.pkl
 *.h5
 
