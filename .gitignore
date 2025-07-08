@@ -80,7 +80,7 @@ venv.bak/
 .streamlit/
 
 # Data and model artifacts
-saved_models/
+
 *.joblib
 *.pkl
 *.h5
